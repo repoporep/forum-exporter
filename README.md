@@ -23,7 +23,7 @@ In your terminal, you'll see text mentioning what page of the thread it's on, in
 
 ---
 
-**How long does it take at most from downloading everything and setting it up, to running it, and getting your first folder?**
+**How long does it take at most from downloading everything and setting it up, to running it, and archiving your first thread?**
 
 *For programmers:* 15 minutes.
 
