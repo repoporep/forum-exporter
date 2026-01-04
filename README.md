@@ -15,6 +15,22 @@ Even for threads with 200 pages, it takes a few minutes to run at most.
 
 ---
 
+**How does it work?**
+
+In laymen's terms, this program open a window in the background and then uses your username and pass to log in to the site then access the thread from the thread url you provide. It either extracts the text from the page it's on to attach to a single txt file or saves a pdf of the page it's on then clicks on to the next page until there's no pages left in the thread.
+
+In your terminal, you'll see text mentioning what page of the thread it's on, in case you're curious about the progress. You can also just open the folder it created in file explorer to see the live changes it's making.
+
+---
+
+**How long does it take at most from downloading everything, to setting it up, and running it?**
+
+*For programmers:* 15 minutes.
+
+*For non-programmers:* 30 minutes.
+
+---
+
 # What You’ll Do (Simple Overview)
 
 You will:
@@ -243,6 +259,14 @@ Run this command in the VS Code terminal:
     node save-forum.js
 
 ✅ **Result:** A folder is created containing PDF files for each thread page.
+
+---
+
+## Step 7: How do you know it's running?
+
+In your terminal, you'll see text mentioning what page of the thread it's on, in case you're curious about the progress. 
+
+You can also just open the folder it created in file explorer to see the live changes it's making.
 
 ---
 
