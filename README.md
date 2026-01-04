@@ -46,7 +46,7 @@ You will:
    - username: your forum username
    - password: your forum password
    - thread: the thread URL
-   - user: user (name to save it as in your folder)
+   - user: not to be confused with username. This value is your chosen folder name to save for the thread which is likely going to be the name of the user of the thread. It can be anything, but make sure to change this value each time you download a different thread so you don't overwrite your previously created folder.
 6. Run **one command** to download the thread
 
 ---
@@ -158,8 +158,7 @@ Inside it, you will change **only** these 4 values:
    - username: your forum username
    - password: your forum password
    - thread: the thread URL
-   - user: user (name to save it as in your folder)
-
+   - user: not to be confused with username. This value is your chosen folder name to save for the thread which is likely going to be the name of the user of the thread. It can be anything, but make sure to change this value each time you download a different thread so you don't overwrite your previously created folder.
 ---
 
 # ✅ What `threadPath` means (IMPORTANT)
@@ -217,7 +216,7 @@ When you copy a thread URL from the forum, it might look like this:
   "username": "PUT_YOUR_USERNAME_HERE",
   "password": "PUT_YOUR_PASSWORD_HERE",
   "thread": "/thread/some-thread-title.12345/",
-  "name": "name that you want"
+  "user": "not to be confused with username. This value is your chosen folder name to save for the thread which is likely going to be the name of the user of the thread. It can be anything, but make sure to change this value each time you download a different thread so you don't overwrite your previously created folder."
 }
 ```
 Don't change the site url!
