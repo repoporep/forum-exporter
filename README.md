@@ -28,7 +28,7 @@ Once you can run it, even for threads with 200 pages, it takes a few minutes to 
 
 ---
 
-** What is the folder format of archived threads?**
+**What is the folder format of archived threads?**
 
 - The folder format exported for pdfs: is exports/winnerwithin/name-you-chose for each thread you chose to download.
 - The folder format exported for one txt file is: is exports/txt/winnerwithin/name-you-chose for each thread you chose to download.
