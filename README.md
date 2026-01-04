@@ -8,11 +8,6 @@ It can export a thread in two formats:
 - **Option 1:** **ONE TXT file** containing the entire thread (all pages combined)
 - **Option 2:** **PDFs** (a separate PDF for every page of the thread)
 
-- The folder format exported for pdfs: is exports/winnerwithin/name-you-chose for each thread you chose to download.
-- The folder format exported for one txt file is: is exports/txt/winnerwithin/name-you-chose for each thread you chose to download.
-
-Even for threads with 200 pages, it takes a few minutes to run at most.
-
 ---
 
 **How does it work?**
@@ -28,6 +23,15 @@ In your terminal, you'll see text mentioning what page of the thread it's on, in
 *For programmers:* 15 minutes.
 
 *For non-programmers:* 30 minutes.
+
+Once you can run it, even for threads with 200 pages, it takes a few minutes to archive everything into your chosen folder and file type (txt or pdf).
+
+---
+
+** What is the folder format of archived threads?**
+
+- The folder format exported for pdfs: is exports/winnerwithin/name-you-chose for each thread you chose to download.
+- The folder format exported for one txt file is: is exports/txt/winnerwithin/name-you-chose for each thread you chose to download.
 
 ---
 
