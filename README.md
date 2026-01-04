@@ -262,7 +262,7 @@ Run this command in the VS Code terminal:
 
 ---
 
-## Step 7: How do you know it's running?
+# Step 7: How do you know it's running?
 
 In your terminal, you'll see text mentioning what page of the thread it's on, in case you're curious about the progress. 
 
